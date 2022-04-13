@@ -115,7 +115,7 @@
     "redux-form": "^7.1.2",
     "serialize-javascript": "^1.4.0",
     "source-map-support": "^0.5.0",
-    "sqlite3": "^3.1.13",
+    "sqlite3": "^5.0.3",
     "styled-components": "^2.2.2",
     "subscriptions-transport-ws": "^0.9.1",
     "universal-cookie-express": "^2.1.0"
