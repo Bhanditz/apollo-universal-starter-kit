@@ -101,7 +101,7 @@
     "react-ga": "^2.3.5",
     "react-helmet": "^5.2.0",
     "react-hot-loader": "^3.1.1",
-    "react-native": "https://github.com/expo/react-native/archive/sdk-22.0.1.tar.gz",
+    "react-native": "0.62.0",
     "react-native-web": "^0.1.12",
     "react-navigation": "^1.0.0-beta.15",
     "react-redux": "^5.0.6",
