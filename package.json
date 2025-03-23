@@ -94,7 +94,7 @@
     "prop-types": "^15.6.0",
     "react": "^16.0.0",
     "react-apollo": "^2.0.0",
-    "react-cookie": "^2.1.1",
+    "react-cookie": "^8.0.1",
     "react-debounce-input": "^3.1.0",
     "react-dom": "^16.0.0",
     "react-dropzone": "^4.2.1",
@@ -118,7 +118,7 @@
     "sqlite3": "^3.1.13",
     "styled-components": "^2.2.2",
     "subscriptions-transport-ws": "^0.9.1",
-    "universal-cookie-express": "^2.1.0"
+    "universal-cookie-express": "^8.0.1"
   },
   "devDependencies": {
     "apollo-utilities": "^1.0.0",
